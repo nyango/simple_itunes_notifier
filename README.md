@@ -1,6 +1,10 @@
 # simple_itunes_notifier
 iTunesで聞いてる曲をslackに投げるやつ
 
+http://qiita.com/ayasuda/items/3773858e5e93ba94da48 における
+> 標準出力に、再生中の曲が表示されたのがわかるかと思いますので、あとは slackcat するなり、直接 curl あたりで post するなり自由にできます。
+の直接curlでpostしているもの。
+
 ## Usage
 1. `secret.conf` にSlackのwebhookで使うトークンを書く
   例:
