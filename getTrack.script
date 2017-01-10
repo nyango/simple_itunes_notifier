@@ -1,3 +1,4 @@
+# http://qiita.com/ayasuda/items/3773858e5e93ba94da48 を参照
 tell application "iTunes"
   set trackName to name of current track
   set trackArtist to artist of current track
