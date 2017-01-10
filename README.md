@@ -19,4 +19,4 @@ $ ./now_listening.sh
   ```
 
 ## 備考
-本当に最低限の実装ですので、 https://github.com/uiureo/playing 等用いたほうが幸せになれると思います。
+本当に最低限の実装ですので、アイコンにアートワークを表示させたり等したい場合、 https://github.com/uiureo/playing を用いたほうが幸せになれると思います。
