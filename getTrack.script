@@ -1,0 +1,5 @@
+tell application "iTunes"
+  set trackName to name of current track
+  set trackArtist to artist of current track
+  return trackName & " - " & trackArtist
+end tell
